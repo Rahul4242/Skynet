@@ -9,4 +9,6 @@ clear
 git remote add origin "https://github.com/Rahul4242/Skynet.git"
 git pull origin master
 
+Edited something in the github
+
 
