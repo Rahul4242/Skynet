@@ -1,4 +1,12 @@
 #to initiate/create  the git repository - the name will be .git in the folder where the git is choosen
  git init 
 
+#other commands
+clear
+
+#to pull
+
+git remote add origin "https://github.com/Rahul4242/Skynet.git"
+git pull origin master
+
 
