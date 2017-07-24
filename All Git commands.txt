@@ -1,0 +1,4 @@
+#to initiate/create  the git repository - the name will be .git in the folder where the git is choosen
+ git init 
+
+
